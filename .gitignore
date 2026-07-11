@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+outputs/
+*.env
+.env
+thekey
+Tokens
+ANTHROPIC_API_KEY*

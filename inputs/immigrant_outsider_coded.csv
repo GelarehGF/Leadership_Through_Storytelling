@@ -1,0 +1,62 @@
+transcript_id,guest_name,gender,outsider_present,primary_type,secondary_type,literal_migration,function,confidence,anchor_quote,note
+IFF-001,Cindy Greenglass,F,no,none,,no,none,0.8,,Career/expertise narrative (govt data->consultancy); no outsider self-positioning.
+IFF-002,Paulina Cameron,F,yes,gender_sexuality,,no,mission_driver,0.85,most of the events I was going to had a white older male on stage... I wanted to hear from experiences of women,Founded women's leadership org in response to male-dominated spaces.
+IFF-003,Sarah Planckaert,F,no,none,,no,none,0.85,,Coaching-calling narrative; no outsider framing.
+IFF-004,Tess & Eris,F,yes,gender_sexuality,,no,barrier_overcome,0.8,"we're both queer owners, and we faced a little bit of pushback in our industry because of this",Queer/non-binary owners; anti-queer hate forced a rebrand away from identity.
+IFF-005,Azrah Manji-Savin,F,yes,racial_ethnic,immigrant_migrant,no,mixed,0.85,you didn't see people like me at the table,Woman of colour; parents immigrants/refugees; immigrant food-community informs the venture.
+IFF-007,Andre (MuseFind),F,yes,career_switcher,,no,none,0.5,"you might see from paper, I'm like an accountant... but I'm not your typical accountant",Mild industry-outsider (accountant-turned-founder).
+IFF-008,Jennifer Griffiths-King,F,yes,immigrant_migrant,career_switcher,yes,mixed,0.75,I sponsored my husband in as an immigrant... it was starting from zero,Returnee/expat (12 yrs in Paris); frames constant reinvention/adaptability as her edge.
+IFF-009,Claire,F,no,none,,yes,none,0.55,,Relocated London->Vancouver for lifestyle; not framed as outsider identity.
+IFF-010,Adele Farhadian,F,yes,immigrant_migrant,,yes,barrier_overcome,0.85,"it just opened up a lot of stuff for me that as an immigrant, I had no idea about",From Iran; anglicized name (Deliram->Dell); cold-called mentors as a newcomer.
+IFF-011,Muse Greenwood,F,yes,racial_ethnic,gender_sexuality,no,barrier_overcome,0.9,I did not think until I put my picture on that people would think a book written by someone black was only for black people,Black woman entrepreneur; took photo off LinkedIn; 6 yrs denied investment; systemic racism central.
+IFF-012,Anita Huberman,F,yes,racial_ethnic,gender_sexuality,no,barrier_overcome,0.9,I was the first South Asian to actually lead a board of trade chamber of commerce in Canada,Young South Asian woman; only woman at the table; had to prove herself.
+IFF-013,Lili Molavi,F,yes,immigrant_migrant,,yes,mixed,0.7,"I grew up in war and revolution in my back country, but when I came to Canada, I found my healing place",War-background immigrant; migration frames a wellbeing-driven reinvention.
+IFF-014,Mariam Mobini,F,no,none,,no,none,0.75,,Stanford behaviour-design expertise; no outsider framing.
+IFF-015,Shireen Saleh,F,yes,gender_sexuality,,no,mission_driver,0.5,I've got a podcast that is careers for women trades and vets in tech,US IT veteran (40 yrs); mild woman-in-tech advocacy. NB: different person from IFF-019 (same name).
+IFF-016,Carrie Goetz,F,no,none,,no,none,0.55,,"Woman in IT 'ahead of my time'; frames it as timing, not outsider identity."
+IFF-017,Anita Huberman (repeat),F,no,none,,no,none,0.7,,"Repeat guest; these passages are trade policy + immigrant-entrepreneurship programs (topical, not self)."
+IFF-018,Ingrid Polini,F,yes,immigrant_migrant,gender_sexuality,yes,mixed,0.85,we have capital from Brazil that we want to invest in Canada,Brazilian founder doing a Canadian spin-off; Brazilian capital as differentiator; implicit gender bias in tech.
+IFF-019,Shireen Saleh,F,yes,immigrant_migrant,career_switcher,yes,mixed,0.85,I was born and raised in a country with crisis. So we are very good in crisis matters,Ex-Tehran-University professor -> Canadian realtor; status drop; crisis-background as resilience.
+IFF-020,Kim Kaplan,F,no,none,,no,none,0.6,,"Dating-app expert; a mild Canadian-vs-US confidence note, not an outsider identity."
+IFF-021,Melanie Ewan,F,yes,gender_sexuality,career_switcher,no,mission_driver,0.75,I was missing kind of the activist roots... felt disconnected from also women that I'd worked with,Government->startup; women-in-tech advocacy and research.
+IFF-022,Christina (mental health),F,no,none,,no,mission_driver,0.55,,Self not outsider; mission supports international students (immigrant-adjacent).
+IFF-023,Kirsten Morgan,F,no,none,,no,none,0.85,,'A learner'; academic consulting; no outsider framing.
+IFF-025,Anna Kostecka,F,yes,immigrant_migrant,,yes,mixed,0.85,this is how an excited Polish person sounds like... I do have this disclaimer,"Immigrant (to Canada, then Poland); worked in immigrant inclusion; cultural misread cost her a job."
+IFF-026,Alex Honado,F,no,none,,no,none,0.6,,"Young self-taught energy-efficiency founder; youth, not outsiderness."
+IFF-027,Elena Pomazanova,F,yes,immigrant_migrant,,yes,resource_asset,0.75,When I came to Canada... the purpose I would like to carry along,From Ukraine; brought digital-transformation experience into the Canadian venture.
+IFF-028,Ruth Diaz,F,no,none,,no,mission_driver,0.55,,"Names her OWN privilege; builds DEI/belonging for marginalized others (mission, not self-outsider)."
+IFF-029,Pat Jason,F,yes,immigrant_migrant,,yes,mixed,0.9,moved to Canada in 2013... a struggling international student... I came here without really speaking any English,Thai international student; couldn't get a min-wage job; builds a support platform for international students.
+IFF-030,Juliana Lopez,F,yes,immigrant_migrant,,yes,mixed,0.9,"I was an immigrant myself, and I struggled the exact same issue... I did not know how to ask for the bill",Language/accent barrier; still 'feels like a foreigner'; builds an immigrant-women community.
+IFF-031,Paige,F,yes,career_switcher,,no,none,0.5,I did environmental sciences in university and it was very anti-business,Disciplinary outsider (environmental science -> business).
+IFM-001,Boros Peludo,M,yes,immigrant_migrant,,yes,mixed,0.9,"I moved to Canada... I didn't speak a word of English... I was cleaning construction sites, washing dishes",Three degrees but started over doing manual work; became lead IT consultant.
+IFM-002,Aydin Tabrakul,M,yes,immigrant_migrant,,yes,none,0.6,"In 2012, I moved to Canada and I started my MBA program",Immigrant founder; migration noted but lightly framed.
+IFM-003,Hamid Reza-Mohammadi,M,yes,immigrant_migrant,,yes,resource_asset,0.9,I am an immigrant entrepreneur which makes it a kind of unique condition,Iran->UAE->Canada; explicitly theorizes immigrants' risk-capacity and cross-system insight as an asset (and a trap).
+IFM-004,Shuryas Kotha,M,no,none,,yes,none,0.5,,Babson/UCW entrepreneur; international-student context (chai) but no outsider self-positioning.
+IFM-005,Iman Aghay,M,no,none,,no,none,0.55,,Failure/hiring narrative; no migration framing in these passages.
+IFM-006,Dana Stephenson,M,no,none,,no,none,0.8,,Sales->EdTech marketplace; no outsider framing.
+IFM-007,Matt Rezaie,M,yes,immigrant_migrant,career_switcher,yes,resource_asset,0.7,"I'm coming from Iran. Over there, I've worked for governments... When I came to Canada, I worked for compounding pharmacy",Immigrant pharmacist; cross-country professional breadth as credential.
+IFM-008,Paul McKenzie,M,yes,career_switcher,,no,barrier_overcome,0.7,"I do not have a tech background, and I didn't study computers... I ended up dropping out",Non-tech outsider running a tech company; 'learn the hard way'.
+IFM-009,Paul McKenzie,M,yes,career_switcher,,no,resource_asset,0.55,I started being a broker of ideas and companies,"Self-taught markets outsider; network as the asset. Same guest, 2nd episode."
+IFM-010,Ali Reza Fadai,M,yes,immigrant_migrant,career_switcher,yes,resource_asset,0.7,"since when I moved to Canada, which is going to be 20 years... martial arts have been a lifetime passion",Immigrant; fuses martial-arts+finance into 'Financial Sensei' trademark as differentiation.
+IFM-011,Garett Senez,M,no,none,,no,none,0.8,,Marketer (L'Oreal/beer) building baby products; no outsider framing.
+IFM-012,Zoran Kovacevic,M,yes,immigrant_migrant,career_switcher,yes,mixed,0.8,I was born and raised in Serbia where I attended a law school and one day I just decided to drop out,Serbia->cruise ships->Vancouver; law-dropout + immigrant reinvention.
+IFM-013,Christopher Grange,M,yes,immigrant_migrant,,yes,resource_asset,0.85,I'm not from Sweden but I am in Sweden. I am from Trinidad and Tobago,Caribbean expat in Sweden; multi-market (Caribbean/EU/Volvo) breadth as credential.
+IFM-014,Nick French,M,no,none,,no,none,0.8,,CPA/fractional CFO; no outsider framing.
+IFM-015,Graham Szasz,M,yes,immigrant_migrant,,yes,mission_driver,0.9,"especially for the immigrant entrepreneurs, there is another opportunity for us to help them",Iranian serial entrepreneur->VC; explicitly funds Persian/immigrant founders.
+IFM-016,Hamid and Rezaq,M,yes,immigrant_migrant,career_switcher,yes,none,0.6,Came to Canada in 2011 doing my research at UBC,"Immigrant data-scientist founder; migration noted, lightly framed."
+IFM-017,Marcus,M,no,none,,no,none,0.75,,"British What3Words exec; travels, but no outsider identity."
+IFM-018,Adam Chantz,M,no,none,,no,none,0.8,,Creative/agency -> personalization commerce; no outsider framing.
+IFM-019,Jake McEvan,M,no,none,,no,none,0.7,,Brief advice-only passages; no outsider framing.
+IFM-020,Jack Smith,M,yes,indigenous,,no,mission_driver,0.55,these cultural matches are really important,Works in Indigenous economic development/capacity-building; own Indigenous identity not explicitly claimed.
+IFM-021,Taylor,M,no,none,,no,none,0.75,,"'Very basic guy', sports+tech; no outsider framing."
+IFM-022,Mehboud,M,yes,immigrant_migrant,career_switcher,yes,mixed,0.8,I came to Canada studying a PhD in construction management... it just takes forever to get a job in academia,Immigrant academic who left academia; construction->real estate->tech pivots.
+IFM-023,Dan,M,no,none,,no,none,0.6,,AR/VR veteran; generational ('someone of my age') but not an outsider identity.
+IFM-024,Imran Muna,M,no,none,,no,none,0.6,,"EdTech founder; heavily team/relational, no migration framing in passages."
+IFM-025,AKA,M,yes,immigrant_migrant,,yes,mixed,0.9,I came here into Canada in 2017... It was a shock for me not to see that I could easily grab my go-to food,Nigerian immigrant; food/community gap becomes the venture (Nigerian cuisine + African-store platform).
+IFM-026,Toby Chu,M,yes,immigrant_migrant,racial_ethnic,yes,mixed,0.85,"when I was in Canada in 1969, I was the only Asian-looking person in my entire school",Long-settled immigrant; historical racial-outsider; Asian-market ties + multilingual staff as asset.
+IFM-027,Garry Wilson,M,yes,indigenous,,no,mission_driver,0.9,when I acknowledge myself as Haisla... I'm also practicing our laws,Indigenous leader; conservation/decolonial 'eco'-economy grounded in ancestral values.
+IFM-028,Steven Fluevog,M,no,none,,no,none,0.6,,"Childhood mobility -> adaptability, but not an outsider identity."
+IFM-029,Kevin Voss,M,no,none,,no,none,0.8,,Biochem PhD -> biotech; no outsider framing.
+IFM-030,Rolph,M,no,none,,no,none,0.85,,Veteran consultant; no outsider framing.
+IFM-031,Tanvir Asan,M,yes,immigrant_migrant,career_switcher,yes,mixed,0.75,"the moment we born, they said you are an engineer... enough with engineering, you have to be a doctor",Immigrant (2012); cultural/family expectations; pharmacist->tech/recycling serial founder.
+IFM-032,Robert Boyas,M,no,none,,no,none,0.85,,"Rent-reporting founder; mother-as-banker origin, no outsider framing."
